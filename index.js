@@ -5,7 +5,7 @@ var T = new Twit(config);
 var CronJob = require('cron').CronJob;
 
 const myAccount = '1446220334353506311'; //Ur account to avoid replying to yourself
-var statusTweet = `Hi, I have found a new banking protocol on Solana blockchain. They will definitely be the next successor in DeFi, check them out: @trush_io`; //Add your tweet here
+var statusTweet = `Hello, I have found a new banking protocol on Solana blockchain. They will definitely be the next successor in DeFi, check them out: @trush_io`; //Add your tweet here
 var isRunning = false;
 var hashtags = ['#crypto' ];
 
